@@ -1,1 +1,46 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Plumbers Dallas TX</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Plumbers in Dallas</h1>
+  <p>Find trusted plumbing professionals fast</p>
+</header>
+
+<div class="container">
+
+  <div class="card">
+    <h2>Dallas Drain Experts</h2>
+    <p>Blocked drains, repairs and installations</p>
+    <button>Request Quote</button>
+  </div>
+
+  <div class="card">
+    <h2>Lone Star Plumbing</h2>
+    <p>Residential plumbing and hot water systems</p>
+    <button>Request Quote</button>
+  </div>
+
+  <div class="card">
+    <h2>Metro Pipe Services</h2>
+    <p>Leak detection and emergency plumbing</p>
+    <button>Request Quote</button>
+  </div>
+
+  <a href="index.html" class="button">Back Home</a>
+
+</div>
+
+<footer>
+  <p>© 2026 USA Trades Directory</p>
+</footer>
+
+</body>
+</html>
