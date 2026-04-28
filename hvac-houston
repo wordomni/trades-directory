@@ -1,1 +1,46 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HVAC Contractors Houston TX</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>HVAC Contractors in Houston</h1>
+  <p>Compare trusted heating and cooling companies</p>
+</header>
+
+<div class="container">
+
+  <div class="card">
+    <h2>Bayou Air Solutions</h2>
+    <p>AC repair, installation and emergency service</p>
+    <button>Request Quote</button>
+  </div>
+
+  <div class="card">
+    <h2>Houston Comfort HVAC</h2>
+    <p>Residential and commercial HVAC services</p>
+    <button>Request Quote</button>
+  </div>
+
+  <div class="card">
+    <h2>Texas Breeze Cooling</h2>
+    <p>Maintenance plans and fast AC repairs</p>
+    <button>Request Quote</button>
+  </div>
+
+  <a href="index.html" class="button">Back Home</a>
+
+</div>
+
+<footer>
+  <p>© 2026 USA Trades Directory</p>
+</footer>
+
+</body>
+</html>
