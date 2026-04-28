@@ -1,1 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Electricians Miami FL</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+<header>
+  <h1>Electricians in Miami</h1>
+  <p>Compare reliable local electrical contractors</p>
+</header>
+
+<div class="container">
+
+  <div class="card">
+    <h2>Miami Power Pros</h2>
+    <p>Switchboards, rewiring and repairs</p>
+    <button>Request Quote</button>
+  </div>
+
+  <div class="card">
+    <h2>Sunshine Electric Co</h2>
+    <p>Residential upgrades and lighting installs</p>
+    <button>Request Quote</button>
+  </div>
+
+  <div class="card">
+    <h2>Coastal Spark Services</h2>
+    <p>Emergency electrical service and testing</p>
+    <button>Request Quote</button>
+  </div>
+
+  <a href="index.html" class="button">Back Home</a>
+
+</div>
+
+<footer>
+  <p>© 2026 USA Trades Directory</p>
+</footer>
+
+</body>
+</html>
