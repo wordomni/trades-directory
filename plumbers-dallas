@@ -19,7 +19,7 @@
   <div class="card">
     <h2>Dallas Drain Experts</h2>
     <p>Blocked drains, repairs and installations</p>
-    <button>Request Quote</button>
+    <a href="quote.html" class="button">Request Quote</a>
   </div>
 
   <div class="card">
