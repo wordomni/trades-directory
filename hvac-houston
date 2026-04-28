@@ -19,7 +19,7 @@
   <div class="card">
     <h2>Bayou Air Solutions</h2>
     <p>AC repair, installation and emergency service</p>
-    <button>Request Quote</button>
+<a href="quote.html" class="button">Request Quote</a>
   </div>
 
   <div class="card">
