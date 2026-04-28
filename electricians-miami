@@ -24,7 +24,7 @@
   <div class="card">
     <h2>Sunshine Electric Co</h2>
     <p>Residential upgrades and lighting installs</p>
-    <button>Request Quote</button>
+   <a href="quote.html" class="button">Request Quote</a>
   </div>
 
   <div class="card">
